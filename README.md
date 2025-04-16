@@ -38,7 +38,7 @@ This project predicts house prices in Bangalore using machine learning. It inclu
 
 ## 🚀 Getting Started
 
-### 1. Clone this repo
+ 1. Clone this repo
 ```bash
 git clone https://github.com/MayankJ03/Real-Estate-Price-Prediction.git
 cd Real-Estate-Price-Prediction
