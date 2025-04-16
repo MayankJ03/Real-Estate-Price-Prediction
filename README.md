@@ -36,7 +36,7 @@ This project predicts house prices in Bangalore using machine learning. It inclu
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
  1. Clone this repo
 ```bash
